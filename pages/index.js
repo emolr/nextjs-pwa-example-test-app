@@ -10,6 +10,12 @@ export default function Home() {
       </Head>
 
       <Link href="./subpage">Subpage</Link>
+      <br />
+      <br />
+      <br />
+      <a href="https://nextjs-pwa-example-test-app-redirect-page.vercel.app/">
+        Link to external page that redirects back
+      </a>
     </div>
   );
 }
